@@ -1,0 +1,11 @@
+body{
+    background-color : #111D27;
+    color: #ffffff;
+    text-align: center;
+    margin: auto;
+    /* vertical-align: middle; */
+}
+.custom {
+    /* display: flex; */
+    /* align-items: center; */
+  }
