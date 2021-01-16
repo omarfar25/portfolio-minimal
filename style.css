@@ -2,10 +2,25 @@ body{
     background-color : #111D27;
     color: #ffffff;
     text-align: center;
-    margin: auto;
+    /* margin: auto; */
     /* vertical-align: middle; */
 }
-.custom {
-    /* display: flex; */
-    /* align-items: center; */
+  .s_box{
+    /* background-color : #398dd3; */
+    color: #ffffff;
+
+  }
+  .s_box .fa {
+    color: #ffffff;
+  }
+ .s_box a:hover .fa{
+    color:#6aa6db;
+    text-shadow: 1px 1px 1px #000;
+    font-size: 1.5em;
+    transition-duration:0.5s;
+    transition-property: font-size,color;
+  }
+  .classrow{
+    height: 80%!important;
+
   }
